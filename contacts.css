@@ -57,21 +57,22 @@ footer{
 }
 tr{
     border-collapse: collapse;
-    margin: 5px;
+    margin: 10px;
     border: 1px solid black; 
 }
 th{
     border-collapse: collapse;
-    margin: 5px;
+    margin: 10px;
     border: 1px solid black; 
 }
 table{
     border-collapse: collapse;
-    margin: 5px;
+    margin: 10px;
     border: 1px solid black;
 }
 td{
     border-collapse: collapse;
-    margin: 5px;
+    margin: 10px;
     border: 1px solid black; 
+    
 }
