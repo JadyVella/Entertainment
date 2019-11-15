@@ -3,6 +3,8 @@
     flex-direction: column;
     border: 1px solid #c40802;
     margin-right: 100px;
+    position: relative;
+    bottom: 80px;
 }
 #second{
     display: flex;
@@ -26,7 +28,7 @@ body{
     flex-direction: column;
     margin-right: 90px;
     margin-left: 90px;
-    background-color: #669999;
+    background-color: salmon;
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 20px;
@@ -79,4 +81,8 @@ footer{
     margin-right: -90px;
     margin-left: -90px;
     margin-bottom: -8px;
+}
+h1{
+    position: relative;
+    bottom: 80px;
 }
